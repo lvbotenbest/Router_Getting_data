@@ -10,7 +10,7 @@ from dataset_templates import TemplateManager
 from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError
 
 # --- 配置区域 ---
-API_KEY = "HLwaq5OfA0dhif7NLl7afm7kUFuP0toS"  # 记得替换
+API_KEY = "xxx"  # 记得替换
 BASE_URL = "https://api.deepinfra.com/v1/openai"
 
 # 定义模型价格字典 (在此处维护价格表)
@@ -272,4 +272,5 @@ def main():
     logger.info(f"TASK FINISHED: Model=[{model_name}] Dataset=[{dataset_name}]")
 
 if __name__ == "__main__":
+
     main()
