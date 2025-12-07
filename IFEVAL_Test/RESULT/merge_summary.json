@@ -1,0 +1,82 @@
+[
+  {
+    "model": "deepseek-ai_DeepSeek-V3.1-Terminus",
+    "status": "success",
+    "total": 1159,
+    "matched": 1157,
+    "unmatched": 2,
+    "true_count": 1004,
+    "accuracy": 0.8663,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_deepseek-ai_DeepSeek-V3.1-Terminus_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "deepseek-ai_DeepSeek-V3.2-Exp",
+    "status": "success",
+    "total": 1493,
+    "matched": 1490,
+    "unmatched": 3,
+    "true_count": 1276,
+    "accuracy": 0.8547,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_deepseek-ai_DeepSeek-V3.2-Exp_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "google_gemma-3-12b-it",
+    "status": "success",
+    "total": 1519,
+    "matched": 1516,
+    "unmatched": 3,
+    "true_count": 1237,
+    "accuracy": 0.8144,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_google_gemma-3-12b-it_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "google_gemma-3-27b-it",
+    "status": "success",
+    "total": 1505,
+    "matched": 1502,
+    "unmatched": 3,
+    "true_count": 1247,
+    "accuracy": 0.8286,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_google_gemma-3-27b-it_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "mistralai_Mistral-Small-3.2-24B-Instruct-2506",
+    "status": "success",
+    "total": 1517,
+    "matched": 1514,
+    "unmatched": 3,
+    "true_count": 1156,
+    "accuracy": 0.762,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_mistralai_Mistral-Small-3.2-24B-Instruct-2506_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "moonshotai_Kimi-K2-Instruct-0905",
+    "status": "success",
+    "total": 1522,
+    "matched": 1519,
+    "unmatched": 3,
+    "true_count": 1305,
+    "accuracy": 0.8574,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_moonshotai_Kimi-K2-Instruct-0905_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "openai_gpt-oss-120b",
+    "status": "success",
+    "total": 1518,
+    "matched": 1515,
+    "unmatched": 3,
+    "true_count": 1330,
+    "accuracy": 0.8762,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_openai_gpt-oss-120b_IFEVAL_merged.jsonl"
+  },
+  {
+    "model": "Qwen_Qwen3-235B-A22B-Instruct-2507",
+    "status": "success",
+    "total": 1477,
+    "matched": 1474,
+    "unmatched": 3,
+    "true_count": 1285,
+    "accuracy": 0.87,
+    "output_file": "C:\\Users\\18846\\Desktop\\博三\\code\\Router\\Construct_Dataset\\BaseModel_Test\\IFEval\\RESULT\\result_Qwen_Qwen3-235B-A22B-Instruct-2507_IFEVAL_merged.jsonl"
+  }
+]
